@@ -1,0 +1,5 @@
+$kind: http-request
+description: ""
+url: "{{CustomerUrl}}/customers/100"
+method: DELETE
+order: 770475578240933

@@ -1,0 +1,18 @@
+$kind: http-request
+description: ""
+url: "{{TransactionUrl}}/transactions"
+method: POST
+body:
+  type: json
+  content: "{\r
+
+    \  \"accountId\": null,\r
+
+    \  \"transactionType\": \"\",\r
+
+    \  \"amount\": 0,\r
+
+    \  \"description\": \"\"\r
+
+    }"
+order: 4034255302200092

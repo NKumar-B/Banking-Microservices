@@ -1,0 +1,20 @@
+$kind: http-request
+description: ""
+url: "{{AccountUrl}}/accounts/1"
+method: PUT
+body:
+  type: json
+  content: "{\r
+
+    \    \"accountNumber\": \"ACC10001\",\r
+
+    \    \"customerId\": 1,\r
+
+    \    \"accountType\": \"SAVINGS\",\r
+
+    \    \"balance\": 500000,\r
+
+    \    \"status\": \"ACTIVE\"\r
+
+    }"
+order: 3863686690078280

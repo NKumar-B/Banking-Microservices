@@ -1,0 +1,5 @@
+$kind: http-request
+description: ""
+url: "{{AccountUrl}}/accounts/100"
+method: GET
+order: 115032247960472

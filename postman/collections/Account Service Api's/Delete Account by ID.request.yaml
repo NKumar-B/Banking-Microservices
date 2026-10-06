@@ -1,0 +1,5 @@
+$kind: http-request
+description: ""
+url: "{{AccountUrl}}accounts/1"
+method: DELETE
+order: 3991442931947446

@@ -1,0 +1,9 @@
+$kind: http-request
+description: ""
+url: http://localhost:8080/customer-service/customers
+method: GET
+auth:
+  type: bearer
+  credentials:
+    token: eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJuaXRoaW5AZ21haWwuY29tIiwidXNlcklkIjoxLCJyb2xlIjoiQ1VTVE9NRVIiLCJpYXQiOjE3OTExODE4NDgsImV4cCI6MTc5MTE4NTQ0OH0.mPAGPgzOdNGr8DiBlTsnLxV6aC6SmXDWp9R7zm1ueQk
+order: 4415146818783817

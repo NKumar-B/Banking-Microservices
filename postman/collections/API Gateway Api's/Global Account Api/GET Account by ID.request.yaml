@@ -1,0 +1,5 @@
+$kind: http-request
+description: ""
+url: "{{GatewayUrl}}/account-service/accounts/10"
+method: GET
+order: 896671394912545

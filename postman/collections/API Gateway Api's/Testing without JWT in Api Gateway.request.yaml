@@ -1,0 +1,5 @@
+$kind: http-request
+description: ""
+url: http://localhost:8080/customer-service/customers
+method: GET
+order: 4431713893567591

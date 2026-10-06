@@ -1,0 +1,9 @@
+$kind: http-request
+description: ""
+url: http://localhost:8080/account-service/accounts
+method: GET
+auth:
+  type: bearer
+  credentials:
+    token: eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJuaXRoaW5AZ21haWwuY29tIiwidXNlcklkIjoxLCJyb2xlIjoiQ1VTVE9NRVIiLCJpYXQiOjE3OTExNzk3NDksImV4cCI6MTc5MTE4MzM0OX0.LnDBBlrbctiU5t1Oe8vO0qL03_YmFBpj7Yi7KnfLCio
+order: 4497886157751502

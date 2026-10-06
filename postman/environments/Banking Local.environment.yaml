@@ -1,0 +1,12 @@
+name: Banking Local
+values:
+  - key: CustomerUrl
+    value: ''
+  - key: AccountUrl
+    value: ''
+  - key: TransactionUrl
+    value: ''
+  - key: GatewayUrl
+    value: ''
+  - key: ffghhaj
+    value: ''

@@ -1,0 +1,5 @@
+$kind: http-request
+description: ""
+url: "{{CustomerUrl}}/customers/999"
+method: GET
+order: 1790840425258

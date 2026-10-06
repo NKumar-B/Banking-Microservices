@@ -1,0 +1,5 @@
+$kind: http-request
+description: ""
+url: "{{baseurl2}}/accounts"
+method: GET
+order: 3416114219993566

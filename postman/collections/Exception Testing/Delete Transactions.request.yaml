@@ -1,0 +1,5 @@
+$kind: http-request
+description: ""
+url: "{{TransactionUrl}}/transactions/100"
+method: DELETE
+order: 4180923369397236

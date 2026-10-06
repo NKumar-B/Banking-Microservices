@@ -1,0 +1,5 @@
+$kind: http-request
+description: ""
+url: "{{GatewayUrl}}/transaction-service/transactions"
+method: GET
+order: 1790793800756

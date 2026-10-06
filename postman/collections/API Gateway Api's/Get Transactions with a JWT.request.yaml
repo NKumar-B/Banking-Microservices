@@ -1,0 +1,9 @@
+$kind: http-request
+description: ""
+url: http://localhost:8080/transaction-service/transactions
+method: GET
+auth:
+  type: bearer
+  credentials:
+    token: eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJuaXRoaW5AZ21haWwuY29tIiwidXNlcklkIjoxLCJyb2xlIjoiQ1VTVE9NRVIiLCJpYXQiOjE3OTExODI3NTAsImV4cCI6MTc5MTE4NjM1MH0.6jjuFOhjHTBGCsXHMIVRlxfuTUb5JmL4vhjdvNRXTZU
+order: 4498563578922551

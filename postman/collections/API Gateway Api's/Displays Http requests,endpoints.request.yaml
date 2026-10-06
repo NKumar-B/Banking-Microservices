@@ -1,0 +1,5 @@
+$kind: http-request
+description: ""
+url: http://localhost:8080/actuator/mappings
+method: GET
+order: 4032274428212575

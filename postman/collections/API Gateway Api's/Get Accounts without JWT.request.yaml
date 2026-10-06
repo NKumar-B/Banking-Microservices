@@ -1,0 +1,5 @@
+$kind: http-request
+description: ""
+url: http://localhost:8080/account-service/accounts
+method: GET
+order: 4486038824492510

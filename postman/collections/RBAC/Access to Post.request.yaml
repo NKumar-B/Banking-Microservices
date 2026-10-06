@@ -1,0 +1,12 @@
+$kind: http-request
+description: ""
+url: http://localhost:8080/account-service/accounts
+method: POST
+body:
+  type: json
+  content: ""
+auth:
+  type: bearer
+  credentials:
+    token: eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJuaXRoaW5AZ21haWwuY29tIiwidXNlcklkIjoxLCJyb2xlIjoiQ1VTVE9NRVIiLCJpYXQiOjE3OTExODk4MjQsImV4cCI6MTc5MTE5MzQyNH0.SN1pPPEhfvXSvMrKcVz0UIAGjYFjn3Uo6wVcfVgEGCE
+order: 1791190186117

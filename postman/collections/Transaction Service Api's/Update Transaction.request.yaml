@@ -1,0 +1,18 @@
+$kind: http-request
+description: ""
+url: "{{TransactionUrl}}/transactions/1"
+method: PUT
+body:
+  type: json
+  content: "{\r
+
+    \    \"accountId\": 1,\r
+
+    \    \"transactionType\": \"DEPOSIT\",\r
+
+    \    \"amount\": 25000,\r
+
+    \    \"description\": \"Cash deposit\"\r
+
+    }"
+order: 2466612811407883

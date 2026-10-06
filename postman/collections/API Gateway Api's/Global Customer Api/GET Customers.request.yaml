@@ -1,0 +1,5 @@
+$kind: http-request
+description: ""
+url: "{{GatewayUrl}}/customer-service/customers"
+method: GET
+order: 2694271089982262

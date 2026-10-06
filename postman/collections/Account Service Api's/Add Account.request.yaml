@@ -1,0 +1,20 @@
+$kind: http-request
+description: ""
+url: "{{AccountUrl}}/accounts"
+method: POST
+body:
+  type: json
+  content: "{\r
+
+    \    \"accountNumber\": \"ACC10002\",\r
+
+    \    \"customerId\": 6,\r
+
+    \    \"accountType\": \"SAVINGS\",\r
+
+    \    \"balance\": 60000,\r
+
+    \    \"status\": \"ACTIVE\"\r
+
+    }"
+order: 1790773516509

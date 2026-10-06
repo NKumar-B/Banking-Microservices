@@ -1,0 +1,16 @@
+$kind: http-request
+description: ""
+url: http://localhost:8084/auth/register
+method: POST
+body:
+  type: json
+  content: "{\r
+
+    \    \"name\": \"Nithin\",\r
+
+    \    \"email\": \"nithin@gmail.com\",\r
+
+    \    \"password\": \"Nithin@123\"\r
+
+    }"
+order: 1791176063391

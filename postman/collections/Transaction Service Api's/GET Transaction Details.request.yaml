@@ -1,0 +1,5 @@
+$kind: http-request
+description: ""
+url: "{{TransactionUrl}}/transactions"
+method: GET
+order: 2281410147600310

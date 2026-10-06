@@ -1,0 +1,17 @@
+$kind: http-request
+url: "{{GatewayUrl}}/customer-service/customers/6"
+method: PUT
+body:
+  type: json
+  content: "{\r
+
+    \    \"id\": 6,\r
+
+    \    \"name\": \"Nithin Kumar \",\r
+
+    \    \"email\": \"nithin@gmail.com@gmail.com\",\r
+
+    \    \"phone\": \"6281144047\"\r
+
+    }"
+order: 3140989556757991

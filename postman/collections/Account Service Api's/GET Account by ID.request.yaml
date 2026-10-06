@@ -1,0 +1,4 @@
+$kind: http-request
+url: "{{AccountUrl}}/accounts/2"
+method: GET
+order: 4227304474000484

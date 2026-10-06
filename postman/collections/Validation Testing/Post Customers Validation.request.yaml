@@ -1,0 +1,16 @@
+$kind: http-request
+description: ""
+url: "{{CustomerUrl}}/customers"
+method: POST
+body:
+  type: json
+  content: "{\r
+
+    \    \"name\": \"Raj\",\r
+
+    \    \"email\": \"abc@gmail.com\",\r
+
+    \    \"phone\": \"6281144ww\"\r
+
+    }"
+order: 1790846899697
